@@ -1,2 +1,2 @@
 # zaz
-# This linces is 
+# This licence is 
